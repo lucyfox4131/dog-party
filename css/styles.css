@@ -7,6 +7,7 @@ header {
   color: white;
   height: 50px;
   padding: 0 25px;
+  border: 1px solid #3F8DA7;
 }
 
 header h1 {
@@ -84,12 +85,17 @@ nav li:hover {
   margin: 25px 0;
 }
 
+.three-col h3 {
+  color: #7FA9AE;
+  font-size: 20px;
+}
+
 .three-col p {
   margin-bottom: 40px;
 }
 
 footer {
-  background: #3F8DA7;
+  background: #7FA9AE;
   color: white;
   margin-top: 40px;
   padding: 20px 0;
